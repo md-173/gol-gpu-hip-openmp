@@ -1,0 +1,81 @@
+
+Size: 10 10
+Requesting grid size of (10,10), which requires 0.000000 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 0.028 ms
+GPU Time (Tp) = 347.220 ms
+Speedup S (Ts/Tp) = 0.000
+t_k (% of time in kernel) = 0.18 %
+
+
+Size: 100 100
+Requesting grid size of (100,100), which requires 0.000037 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 3.585 ms
+GPU Time (Tp) = 357.633 ms
+Speedup S (Ts/Tp) = 0.010
+t_k (% of time in kernel) = 0.18 %
+
+
+Size: 500 500
+Requesting grid size of (500,500), which requires 0.000931 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 86.438 ms
+GPU Time (Tp) = 357.487 ms
+Speedup S (Ts/Tp) = 0.242
+t_k (% of time in kernel) = 0.28 %
+
+
+Size: 1000 1000
+Requesting grid size of (1000,1000), which requires 0.003725 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 346.758 ms
+GPU Time (Tp) = 361.502 ms
+Speedup S (Ts/Tp) = 0.959
+t_k (% of time in kernel) = 0.66 %
+
+
+Size: 2500 2500
+Requesting grid size of (2500,2500), which requires 0.023283 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 2235.817 ms
+GPU Time (Tp) = 372.985 ms
+Speedup S (Ts/Tp) = 5.994
+t_k (% of time in kernel) = 3.33 %
+
+
+Size: 7500 7500
+Requesting grid size of (7500,7500), which requires 0.209548 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 19483.414 ms
+GPU Time (Tp) = 515.570 ms
+Speedup S (Ts/Tp) = 37.790
+t_k (% of time in kernel) = 21.59 %
+
+
+Size: 10000 10000
+Requesting grid size of (10000,10000), which requires 0.372529 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 34657.793 ms
+GPU Time (Tp) = 628.221 ms
+Speedup S (Ts/Tp) = 55.168
+t_k (% of time in kernel) = 31.24 %
+
+
+Size: 20000 20000
+Requesting grid size of (20000,20000), which requires 1.490116 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 138633.609 ms
+GPU Time (Tp) = 1459.390 ms
+Speedup S (Ts/Tp) = 94.994
+t_k (% of time in kernel) = 54.85 %
+
+
+Size: 1000 10000
+Requesting grid size of (1000,10000), which requires 0.037253 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 3457.571 ms
+GPU Time (Tp) = 392.922 ms
+Speedup S (Ts/Tp) = 8.800
+t_k (% of time in kernel) = 5.14 %
+

@@ -1,0 +1,15 @@
+/var/spool/slurmd/job42942663/slurm_script: line 13: syntax error near unexpected token `('
+/var/spool/slurmd/job42942663/slurm_script: line 13: `sizes=('
+/var/spool/slurmd/job42942663/slurm_script: line 14: 10 10: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 15: 100 100: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 16: 500 500: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 17: 1000 1000: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 18: 2500 2500: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 19: 5000 5000: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 20: 7500 7500: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 21: 10000 10000: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 22: 20000 20000: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 23: 30000 30000: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 24: 1000 10000: command not found
+/var/spool/slurmd/job42942663/slurm_script: line 25: syntax error near unexpected token `)'
+/var/spool/slurmd/job42942663/slurm_script: line 25: `)'

@@ -1,0 +1,99 @@
+
+Size: 10 10
+Requesting grid size of (10,10), which requires 0.000000 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 0.028 ms
+GPU Time (Tp) = 347.672 ms
+Speedup S (Ts/Tp) = 0.000
+t_k (% of time in kernel) = 0.18 %
+
+
+Size: 100 100
+Requesting grid size of (100,100), which requires 0.000037 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 3.577 ms
+GPU Time (Tp) = 358.429 ms
+Speedup S (Ts/Tp) = 0.010
+t_k (% of time in kernel) = 0.18 %
+
+
+Size: 500 500
+Requesting grid size of (500,500), which requires 0.000931 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 86.531 ms
+GPU Time (Tp) = 357.086 ms
+Speedup S (Ts/Tp) = 0.242
+t_k (% of time in kernel) = 0.28 %
+
+
+Size: 1000 1000
+Requesting grid size of (1000,1000), which requires 0.003725 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 347.294 ms
+GPU Time (Tp) = 358.294 ms
+Speedup S (Ts/Tp) = 0.969
+t_k (% of time in kernel) = 0.66 %
+
+
+Size: 2500 2500
+Requesting grid size of (2500,2500), which requires 0.023283 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 2160.396 ms
+GPU Time (Tp) = 375.683 ms
+Speedup S (Ts/Tp) = 5.751
+t_k (% of time in kernel) = 3.30 %
+
+
+Size: 5000 5000
+Requesting grid size of (5000,5000), which requires 0.093132 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 8635.465 ms
+GPU Time (Tp) = 428.019 ms
+Speedup S (Ts/Tp) = 20.175
+t_k (% of time in kernel) = 11.29 %
+
+
+Size: 7500 7500
+Requesting grid size of (7500,7500), which requires 0.209548 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 19479.232 ms
+GPU Time (Tp) = 512.102 ms
+Speedup S (Ts/Tp) = 38.038
+t_k (% of time in kernel) = 21.74 %
+
+
+Size: 10000 10000
+Requesting grid size of (10000,10000), which requires 0.372529 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 34646.578 ms
+GPU Time (Tp) = 628.145 ms
+Speedup S (Ts/Tp) = 55.157
+t_k (% of time in kernel) = 31.25 %
+
+
+Size: 20000 20000
+Requesting grid size of (20000,20000), which requires 1.490116 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 138616.406 ms
+GPU Time (Tp) = 1456.098 ms
+Speedup S (Ts/Tp) = 95.197
+t_k (% of time in kernel) = 54.95 %
+
+
+Size: 30000 30000
+Requesting grid size of (30000,30000), which requires 3.352761 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 313228.844 ms
+GPU Time (Tp) = 2798.688 ms
+Speedup S (Ts/Tp) = 111.920
+t_k (% of time in kernel) = 63.34 %
+
+
+Size: 1000 10000
+Requesting grid size of (1000,10000), which requires 0.037253 GB 
+Correct Output, GPU matches CPU
+CPU Time (Ts) = 3461.011 ms
+GPU Time (Tp) = 391.467 ms
+Speedup S (Ts/Tp) = 8.841
+t_k (% of time in kernel) = 5.16 %
+

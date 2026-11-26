@@ -1,0 +1,88 @@
+Size: 10 10
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 0.004895 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 0.002588 s
+
+Size: 100 100
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 0.005998 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 0.003067 s
+
+Size: 500 500
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 0.102031 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 0.004234 s
+
+Size: 1000 1000
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 0.400418 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 0.007692 s
+
+Size: 2500 2500
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 2.494601 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 0.035127 s
+
+Size: 5000 5000
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 9.905221 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 0.133845 s
+
+Size: 7500 7500
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 22.329991 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 0.305398 s
+
+Size: 10000 10000
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 39.714838 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 0.565122 s
+
+Size: 20000 20000
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 158.957229 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 2.413998 s
+
+Size: 30000 30000
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 358.202021 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 5.604199 s
+
+Size: 1000 10000
+CPU Time (Ts)
+Finnished GOL
+Elapsed time 3.962527 s
+GPU Time (Tp)
+Finnished GOL
+Elapsed time 0.053596 s
+
